@@ -1,3 +1,4 @@
 .ipynb_checkpoints
-**/git_frames/
-**/*.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+gif_frames/
+
